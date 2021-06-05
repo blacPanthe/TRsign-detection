@@ -20,6 +20,7 @@ Further we are using the camera to do live capturing using over default webcam.A
 Further the live frame we got from the camera capture we are converting it to grayscale and blurring it, and then finally using the Hough transform for detecting the circles. we are using Hough circles for detecting the circles
 
 ![Screenshot (562)](https://user-images.githubusercontent.com/66546484/120888480-23f87e00-c616-11eb-827f-cd143aac2077.png)
+
 Fig 2 green circles are hough circles detection
 ![Screenshot (576)](https://user-images.githubusercontent.com/66546484/120888931-83578d80-c618-11eb-95da-ccddee9f3328.png)
 ![image](https://user-images.githubusercontent.com/66546484/120888784-e3016900-c617-11eb-87d5-5514c23149d6.png)
@@ -61,6 +62,7 @@ And at last we destroy all window and end the camera capture
 IV.discussion of strategy adopted
 
 Further talking about the strategy adopted
+
 ![image](https://user-images.githubusercontent.com/66546484/120888998-c1ed4800-c618-11eb-9013-64a95ec3ca93.png)
 
 There are three major steps here:
