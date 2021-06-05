@@ -38,7 +38,8 @@ We create 3 zones out of it, zone0, zone 1, zone2, here the square windows are m
 Further the colors in the zone are compared and particularly the traffic signs are given there names
 
 
-![Screenshot (569)](https://user-images.githubusercontent.com/66546484/120888547-6e79fa80-c616-11eb-8d99-aa112f23ce97.png)
+![Screenshot (570)](https://user-images.githubusercontent.com/66546484/120888975-b3069580-c618-11eb-830f-7c25356be319.png)
+
 Fig 4 there is then d hough circle detection as well as the dominant color comparing
 ![image](https://user-images.githubusercontent.com/66546484/120888829-21972380-c618-11eb-86f8-21ba44f4be8c.png)
 ![image](https://user-images.githubusercontent.com/66546484/120888839-2cea4f00-c618-11eb-9a3e-cd08ef3ed3bd.png)
@@ -60,6 +61,8 @@ And at last we destroy all window and end the camera capture
 IV.discussion of strategy adopted
 
 Further talking about the strategy adopted
+![image](https://user-images.githubusercontent.com/66546484/120888998-c1ed4800-c618-11eb-9013-64a95ec3ca93.png)
+
 There are three major steps here:
 1.Use of Hough transform concept (https://en.wikipedia.org/wiki/Hough_transform#:~:text=The%20Hough%20transform%20is%20a,shapes%20by%20a%20voting%20procedure.)
 2.Comparing of the cluster using dominant color method
